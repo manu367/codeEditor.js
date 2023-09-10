@@ -1,3 +1,15 @@
+/*
+ This is a multi-line comment.
+
+ My Awesome JavaScript Library
+ * Version: 1.0.0
+ * Author: Manu Pathak
+ * License: MIT
+ * E-mial: pathakmanu174@gmail.com
+*/
+
+
+
 var chatbotHtml=`<!DOCTYPE html>
 <html lang="en">
 
